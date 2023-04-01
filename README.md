@@ -26,7 +26,7 @@ To run the application, you need to have Python and MySQL installed on your mach
 
 1. Clone the repository:
 
-```git clone <a href="https://github.com/kanish-dev/Django-CRM.git">https://github.com/kanish-dev/Django-CRM.git <a>```
+```git clone https://github.com/kanish-dev/Django-CRM.git ```
 
 2. Create a virtual environment:
 
